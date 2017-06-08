@@ -1,0 +1,8 @@
+/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/bin/Debug/netcoreapp1.1/Gladiator.deps.json
+/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/bin/Debug/netcoreapp1.1/Gladiator.runtimeconfig.json
+/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/bin/Debug/netcoreapp1.1/Gladiator.runtimeconfig.dev.json
+/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/bin/Debug/netcoreapp1.1/Gladiator.dll
+/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/bin/Debug/netcoreapp1.1/Gladiator.pdb
+/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/obj/Debug/netcoreapp1.1/Gladiator.AssemblyInfo.cs
+/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/obj/Debug/netcoreapp1.1/Gladiator.dll
+/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/obj/Debug/netcoreapp1.1/Gladiator.pdb
