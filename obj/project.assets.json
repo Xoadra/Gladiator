@@ -7042,16 +7042,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/Gladiator.csproj",
+      "projectUniqueName": "/Users/xoadra/Programming/Dojo/03C#/Gladiator/Gladiator.csproj",
       "projectName": "Gladiator",
-      "projectPath": "/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/Gladiator.csproj",
-      "outputPath": "/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/obj/",
+      "projectPath": "/Users/xoadra/Programming/Dojo/03C#/Gladiator/Gladiator.csproj",
+      "outputPath": "/Users/xoadra/Programming/Dojo/03C#/Gladiator/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/Gladiator.dll": "/Users/xoadra/Programming/Bootcamp/03C#/Gladiator/bin/placeholder/netcoreapp1.1/Gladiator.dll"
+        "lib/netcoreapp1.1/Gladiator.dll": "/Users/xoadra/Programming/Dojo/03C#/Gladiator/bin/placeholder/netcoreapp1.1/Gladiator.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
